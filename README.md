@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **I maintain the Moto g71 5G device tree and Moto g82**
 
-- 🌱 I’m currently learning **Kernel and its components problems**
+- 🌱 I’m currently learning **Kernel and its components**
 
-- 👨‍💻 All of my projects are available at [Here in my profile:D](Here in my profile:D)
+- 👨‍💻 All of my projects are available at here in my profile :D
 
 - 📫 How to reach me **kevin.vm1511@gmail.com**
 
